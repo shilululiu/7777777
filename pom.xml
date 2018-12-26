@@ -45,8 +45,7 @@
 
 	<build>
 		<plugins>
-			<plugin>
-			</plugin>
+
 		</plugins>
 	</build>
 
